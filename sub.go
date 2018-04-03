@@ -13,7 +13,6 @@ import (
 	"github.com/nats-io/go-nats"
 	"github.com/nats-io/go-nats-streaming"
 	"github.com/nats-io/go-nats/bench"
-	"strconv"
 )
 
 // Some sane defaults
